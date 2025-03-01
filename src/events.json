@@ -1,0 +1,6 @@
+[
+    { "id": 1, "title": "Concert Rock", "description": "Un super concert", "participants": 5, "tickets": 10, "liked": false },
+    { "id": 2, "title": "Conférence Tech", "description": "Apprenez le futur", "participants": 20, "tickets": 0, "liked": false },
+    { "id": 3, "title": "Exposition Art", "description": "Découvrez de l'art", "participants": 3, "tickets": 5, "liked": false }
+  ]
+  
